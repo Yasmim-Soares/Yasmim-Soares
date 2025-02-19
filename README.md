@@ -36,3 +36,4 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
