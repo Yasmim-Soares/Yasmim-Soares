@@ -29,7 +29,7 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
 </p>
 
 <p align="left">
-  <a href="mailto:yasmimsousa251@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmimsousa251@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/yasmim-soares-de-sousa-a74135254" title="LinkedIn" target="_blank">
