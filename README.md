@@ -1,16 +1,36 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Yasmim-Soares/Yasmim-Soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+ Olá! 👋 Me chamo Yasmim e estou cursando Sistemas de Informação. Atualmente, estou focada no estudo de Java para Back-end e, em seguida, pretendo aprofundar meus conhecimentos em banco de dados, estrutura de dados e os fundamentos de Front-end.
 
-Here are some ideas to get you started:
+Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🦄 Linguagens: <div align="left">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+</div>
+</p>
+
+<p align="left">
+  💼 Ferramentas: 
+</p>
+<div align="left">
+  <span>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/>
+  </span>
+  <span>
+    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" title="netbeans"/>
+  </span>
+</div>
+
+<p align="left">
+  💌 Se você deseja trocar ideias sobre programação ou tem uma oportunidade de estágio na área de tecnologia, ficarei feliz em conversar!  ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yasmimsousa251@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/" alt="LinkedIn"/></a>
+</p>
