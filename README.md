@@ -22,6 +22,9 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
   <span>
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" title="netbeans"/>
   </span>
+  <span>
+	  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" alt="vscode" title="vscode"/>
+  </span>
 </div>
 
 <p align="left">
