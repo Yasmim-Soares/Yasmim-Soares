@@ -8,7 +8,12 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
 
 <p align="left">
   🦄 Linguagens: <div align="left">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	  <span>
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+      </span>
+	  <span>
+          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      </span>
 </div>
 </p>
 
@@ -20,7 +25,7 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
     <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/>
   </span>
   <span>
-    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="netbeans" title="netbeans"/>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
   </span>
   <span>
 	  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" alt="vscode" title="vscode"/>
@@ -40,3 +45,12 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
   </a>
 </p>
 
+<br/>
+
+<td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Yasmim-Soares&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
