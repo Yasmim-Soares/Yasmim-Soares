@@ -22,7 +22,7 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
 </p>
 <div align="left">
   <span>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/>
+    <img width="90" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" alt="eclipse" title="eclipse"/>
   </span>
   <span>
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
