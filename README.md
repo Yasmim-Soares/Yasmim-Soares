@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! 👋 Me chamo Yasmim e estou cursando Sistemas de Informação. Atualmente, estou focada no estudo de Java para Back-end e, em seguida, pretendo aprofundar meus conhecimentos em banco de dados, estrutura de dados e os fundamentos de Front-end.
+ Olá! 👋 Me chamo Yasmim e estou cursando Sistemas de Informação. Atualmente, estou focada no estudo de Java para Back-end e em seguida pretendo aprofundar meus conhecimentos em banco de dados, estrutura de dados e os fundamentos de Front-end.
 
 Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
 </p>
