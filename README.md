@@ -49,6 +49,7 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
 
 <td>
       <img
+		width="390"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Yasmim-Soares&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"/>
