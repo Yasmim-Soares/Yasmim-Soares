@@ -47,17 +47,19 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
 
 <br/>
 
-<td>
+<table>
+  <tr>
+    <td>
       <img
-		width="390"
-        align="left"
+        width="390"
         src="https://github-readme-stats.vercel.app/api?username=Yasmim-Soares&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"/>
-</td>
-<td>
+        alt="GitHub Stats"/>
+    </td>
+    <td>
       <img
-		width="355"
-        align="left"
+        width="355"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmim-Soares&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"/>
-</td>
+        alt="Most Used Languages"/>
+    </td>
+  </tr>
+</table>
