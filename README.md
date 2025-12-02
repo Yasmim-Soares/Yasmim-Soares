@@ -14,34 +14,20 @@
 🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
 </p>
 
-<p align="left">
-  🦄 Linguagens: <div align="left">
-	  <span>
-          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-      </span>
-	  <span>
-          <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-      </span>
-	  <span>
-          <img width="50" src="https://github.com/user-attachments/assets/cca1d792-f9b4-4d6e-bfcc-a72edccf3b1e" />
-      </span>
-</div>
-</p>
+### 🛠️ Tech Stack
 
-<p align="left">
-  💼 Ferramentas: 
-</p>
-<div align="left">
-  <span>
-    <img width="90" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" alt="eclipse" title="eclipse"/>
-  </span>
-  <span>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-  </span>
-  <span>
-	  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png" alt="vscode" title="vscode"/>
-  </span>
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 💼 Ferramentas
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="left">
   💌 Se você deseja trocar ideias sobre programação ou tem uma oportunidade de estágio na área de tecnologia, ficarei feliz em conversar!  ⤵️
@@ -58,19 +44,18 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img
-        width="390"
-        src="https://github-readme-stats.vercel.app/api?username=Yasmim-Soares&theme=dark&hide_border=false&include_all_commits=true"
-        alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img
-        width="355"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasmim-Soares&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Most Used Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Yasmim-Soares">
+          <img 
+            height="180"
+            src="https://streak-stats.demolab.com?user=Yasmim-Soares&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" 
+            alt="GitHub Streak" 
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
