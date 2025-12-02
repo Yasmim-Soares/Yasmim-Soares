@@ -1,9 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! 👋 Me chamo Yasmim e estou cursando Sistemas de Informação. Atualmente, estou focada no estudo de Java para Back-end e em seguida pretendo aprofundar meus conhecimentos em banco de dados, estrutura de dados e os fundamentos de Front-end.
+ 👋 Olá! Sou a Yasmim, estudante de Sistemas de Informação apaixonada por tecnologia.
 
-Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
+🔭 Atualmente estudando:
+
+☕ Back-end: Java & Spring Framework
+
+🐘 Banco de Dados: SQL & PostgreSQL
+
+📚 Fundamentos: Estrutura de Dados
+
+🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
 </p>
 
 <p align="left">
@@ -13,6 +21,9 @@ Estou sempre em busca de aprendizado e novos desafios na área da tecnologia!
       </span>
 	  <span>
           <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+      </span>
+	  <span>
+          <img width="50" src="https://github.com/user-attachments/assets/cca1d792-f9b4-4d6e-bfcc-a72edccf3b1e" />
       </span>
 </div>
 </p>
