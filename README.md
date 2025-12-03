@@ -5,7 +5,7 @@
 
 🔭 Atualmente estudando:
 
-☕ Back-end: Java & Spring Framework
+☕ Back-end: Java & Spring Framework & PHP & Laravel
 
 🐘 Banco de Dados: SQL & PostgreSQL
 
