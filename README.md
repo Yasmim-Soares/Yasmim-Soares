@@ -3,13 +3,12 @@
 <p align="left"> 
  👋 Olá! Sou a Yasmim, estudante de Sistemas de Informação apaixonada por tecnologia.
 
-🔭 Atualmente estudando:
+🔭 Meus Conhecimentos:
 
 ☕ Back-end: Java & Spring Framework & PHP & Laravel
 
 🐘 Banco de Dados: SQL & PostgreSQL
 
-📚 Fundamentos: Estrutura de Dados
 
 🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
 </p>
