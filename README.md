@@ -49,8 +49,8 @@
       <td align="center">
         <a href="https://github.com/Yasmim-Soares">
           <img 
-            height="180"
-            src="https://streak-stats.demolab.com?user=Yasmim-Soares&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D" 
+            height="180" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmim-Soares&theme=merko" 
             alt="GitHub Streak" 
           />
         </a>
