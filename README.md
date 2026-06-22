@@ -50,7 +50,7 @@
         <a href="https://github.com/Yasmim-Soares">
           <img 
             height="180" 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmim-Soares&theme=merko" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Yasmim-Soares&theme=dark&hide_border=false" 
             alt="GitHub Streak" 
           />
         </a>
