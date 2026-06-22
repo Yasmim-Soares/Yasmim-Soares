@@ -5,7 +5,7 @@
 
 🔭 Meus Conhecimentos:
 
-☕ Back-end: Java & Spring Framework & PHP & Laravel
+☕ Back-end: Java & Spring & PHP & Laravel
 
 🐘 Banco de Dados: SQL & PostgreSQL
 
