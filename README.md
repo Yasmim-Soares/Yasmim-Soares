@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- 👋 Olá! Sou a Yasmim, estudante de Sistemas de Informação apaixonada por tecnologia.
+ 👋 Olá! Sou a Yasmim.
 
 🔭 Meus Conhecimentos:
 
@@ -9,12 +9,9 @@
 
 🐘 Banco de Dados: SQL & PostgreSQL
 
-
-
 🚀 Desenvolvedora Back-end Júnior atuando com PHP e Laravel, e graduanda em Sistemas de Informação. 
-Foco no desenvolvimento de APIs REST, modelagem de bancos de dados relacionais (PostgreSQL/SQL) e boas práticas de orientação a objetos. 
-Atualmente aprofundando estudos em Estruturas de Dados e arquitetura com Java e Spring Boot.
-Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
+Tenho foco no desenvolvimento de APIs REST, modelagem de bancos de dados relacionais e boas práticas de orientação a objetos. 
+Atualmente, estou aprofundando meus estudos em Estruturas de Dados e arquitetura com Java e Spring Boot.
 </p>
 
 ### 🛠️ Tech Stack
