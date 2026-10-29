@@ -5,12 +5,16 @@
 
 🔭 Meus Conhecimentos:
 
-☕ Back-end: Java & Spring & PHP & Laravel
+☕ Back-end: PHP & Laravel
 
 🐘 Banco de Dados: SQL & PostgreSQL
 
 
-🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
+
+🚀 Desenvolvedora Back-end Júnior atuando com PHP e Laravel, e graduanda em Sistemas de Informação. 
+Foco no desenvolvimento de APIs REST, modelagem de bancos de dados relacionais (PostgreSQL/SQL) e boas práticas de orientação a objetos. 
+Atualmente aprofundando estudos em Estruturas de Dados e arquitetura com Java e Spring Boot.
+Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos reais.
 </p>
 
 ### 🛠️ Tech Stack
@@ -29,7 +33,7 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <p align="left">
-  💌 Se você deseja trocar ideias sobre programação ou tem uma oportunidade de estágio na área de tecnologia, ficarei feliz em conversar!  ⤵️
+  💌 Se você deseja trocar ideias sobre programação ou tem uma oportunidade na área de tecnologia, ficarei feliz em conversar!  ⤵️
 </p>
 
 <p align="left">
