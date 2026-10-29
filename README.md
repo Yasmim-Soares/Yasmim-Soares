@@ -5,7 +5,7 @@
 
 🔭 Meus Conhecimentos:
 
-☕ Back-end: PHP & Laravel
+💻 Back-end: PHP & Laravel
 
 🐘 Banco de Dados: SQL & PostgreSQL
 
